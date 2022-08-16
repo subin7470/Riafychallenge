@@ -1,5 +1,6 @@
 const Constants = {
   APP_THEME_COLOR: '#f7f7f7',
+  APP_WHITE_COLOR: '#ffffff',
   APP_TEXT_COLOR: '#30384d',
   APP_PLACEHOLDER_COLOR: '#7e8a9a',
   fonts: {
